@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4969FF65-8018-E787-8A42-8A5C83E77DE1}|AdviceBot.csproj|c:\\users\\x3n1x\\desktop\\advicebot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4969FF65-8018-E787-8A42-8A5C83E77DE1}|AdviceBot.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4969FF65-8018-E787-8A42-8A5C83E77DE1}|AdviceBot.csproj|c:\\users\\x3n1x\\desktop\\advicebot\\advicebot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4969FF65-8018-E787-8A42-8A5C83E77DE1}|AdviceBot.csproj|solutionrelative:advicebot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,22 +32,10 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\x3n1x\\Desktop\\AdviceBot\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAKAAAAAAAAAAAAAuwLMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAAAKEAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-13T07:12:02.447Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AdviceBot.csproj",
-              "DocumentMoniker": "C:\\Users\\x3n1x\\Desktop\\AdviceBot\\AdviceBot.csproj",
-              "RelativeDocumentMoniker": "AdviceBot.csproj",
-              "ToolTip": "C:\\Users\\x3n1x\\Desktop\\AdviceBot\\AdviceBot.csproj",
-              "RelativeToolTip": "AdviceBot.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-11-13T07:11:59.218Z"
             }
           ]
         }

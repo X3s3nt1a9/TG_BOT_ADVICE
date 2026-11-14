@@ -18,3 +18,4 @@ C:\Users\x3n1x\Desktop\AdviceBot\obj\Debug\net10.0\refint\AdviceBot.dll
 C:\Users\x3n1x\Desktop\AdviceBot\obj\Debug\net10.0\AdviceBot.pdb
 C:\Users\x3n1x\Desktop\AdviceBot\obj\Debug\net10.0\AdviceBot.genruntimeconfig.cache
 C:\Users\x3n1x\Desktop\AdviceBot\obj\Debug\net10.0\ref\AdviceBot.dll
+C:\Users\x3n1x\Desktop\AdviceBot\obj\Debug\net10.0\AdviceBot.sourcelink.json
